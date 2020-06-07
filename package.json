@@ -8,9 +8,10 @@
     "prop-type": "^0.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.6.3",
+    "react-browser-router": "^2.1.2",
     "react-dom": "^16.6.3",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
     "sort-by": "^1.2.0"
   },
   "scripts": {
@@ -27,5 +28,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
 }
